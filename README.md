@@ -1,8 +1,10 @@
 Pash DeVore
 ===========
-*pashdevore.com*
-*github.com/pashdevore*
-*pashdevore@gmail.com*
+_pashdevore.com_
+
+_github.com/pashdevore_
+
+_pashdevore@gmail.com_
 
 ---
 
@@ -13,7 +15,9 @@ To obtain a position in application development in which I can refine my program
 
 ##Education & Coursework
 **AppAcademy, San Francisco, CA – Full Stack Web Development program,  December 2014 - Current**
+
 **Heartland Community College, Normal, IL – Associate in Applied Science (Information Technology), 2014**
+
 **Illinois Wesleyan University, Bloomington, IL – Bachelor of Science, 2009**
 
 * _Computer Science I & II_ - Learned concepts of programming and algorithm problem solving using Java. Covered recursion, data structures, input and output, searching and sorting, and many other advanced computer science topics.
