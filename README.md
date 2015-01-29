@@ -8,12 +8,12 @@ _pashdevore@gmail.com_
 
 ---
 
-##Objective
+## Objective
 To obtain a position in application development in which I can refine my programming skills, contribute within a team environment, and develop innovative uses of software, infrastructures, systems, and design.
 
 ---
 
-##Education & Coursework
+## Education & Coursework
 **AppAcademy, San Francisco, CA – Full Stack Web Development program,  December 2014 - Current**
 
 **Heartland Community College, Normal, IL – Associate in Applied Science (Information Technology), 2014**
@@ -34,7 +34,7 @@ To obtain a position in application development in which I can refine my program
 
 ---
 
-##Relevant Strengths
+## Relevant Strengths
 * Analytical skills enhancing my ability to investigate, identify, and resolve complex and technical problems.
 * Social and collaborative skills in working with team members to improve procedures and processes.
 * Communication skills in conveying information both verbally and in writing.
@@ -43,36 +43,43 @@ To obtain a position in application development in which I can refine my program
 
 ---
 
-##Experience
-###Lab Assistant at Heartland Community College, Normal, IL
-###November 2013 - May 2014
+## Experience
+### Software Developer at State Farm Insurance, Bloomington, IL
+### March 2015 - Present
+Responsible for development and support of claim-based internal application for medical bills\n
+* Used Java, XML, XSL, CSS, and JavaScript to create screens for Enterprise Claims System application.
+* Quality Engineering team lead responsible for reviewing and approving code changes for application releases.
+* Developed background processes utilizing SQL queries.
+
+### Lab Assistant at Heartland Community College, Normal, IL
+### November 2013 - May 2014
 Responsible for helping students and keeping all equipment in the lab secure\n
 * Worked to help students in both Mac OS X and Windows 8 environments.
 * Assisted computer science students in solving computer programming problems analytically.
 
-###Manager/Pharmacy Technician, Doc's Drugs, Leroy, IL
-###April 2012 - September 2012
+### Manager/Pharmacy Technician, Doc's Drugs, Leroy, IL
+### April 2012 - September 2012
 Responsible for store operations, customer service, and proper dispensing of medications for patients\n
 * Applied sales software to maintain store inventory and manage daily cash reports.
 * Managed patient information.
 * Resolved medical insurance issues using pharmacy software applications.
 
-###Customer Service/Ramp Agent, AirTran Airways, Bloomington, IL
-###May 2011 - June 2012
+### Customer Service/Ramp Agent, AirTran Airways, Bloomington, IL
+### May 2011 - June 2012
 Provided customers with airline services and problem resolutions; serviced and marshaled aircraft\n
 * Booked tickets and resolved demanding travel issues using airline company software.
 * Monitored incoming flights using web-based software to schedule airport operations.
 * Elected as Union Chief to resolve issues between management and employees.
 
-###Research Assistant at JMU, Kevin Minbiole, Harrisonburg, VA
-###Summer 2008
+### Research Assistant at JMU, Kevin Minbiole, Harrisonburg, VA
+### Summer 2008
 Conducted chemistry research using new synthetic techniques\n
 * Worked within a team to develop complete syntheses using known chemistry methods.
 * Collaborated weekly with other research teams to analyze chemistry problem sets within various chemistry disciplines.
 * Used various chemistry instrument software to complete research as well as present the team’s findings.
 
-###Research Assistant at IWU, Ram Mohan, Bloomington, IL
-###Summer 2007 - Spring 2008
+### Research Assistant at IWU, Ram Mohan, Bloomington, IL
+### Summer 2007 - Spring 2008
 Employed green chemistry methodologies in group research\n
 * Developed environmentally friendly chemistry methods for use in future chemistry practices.
 * Trained and mentored new group members in the use of chemistry instruments and associated software.
